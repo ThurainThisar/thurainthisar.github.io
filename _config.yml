@@ -57,12 +57,12 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : "Thurain Thisar"
-  app_id                 : "thurain.thisar.3"
+  username               : "thurain.thisar.3"
+  app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
+
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
   name                   : "Thurain Thisar"
@@ -83,7 +83,7 @@ author:
   location         : "Magway, Magway, Myanmar"
   email            : "thurainthisar0070@gmail.com"
   uri              :
-  home             : # null (default)
+  home             :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -99,8 +99,8 @@ author:
   linkedin         : "hein-htet-6864501a0"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username"
-  steam            : # "steamId"
+  stackoverflow    :
+  steam            :
   tumblr           :
   twitter          :
   vine             :
