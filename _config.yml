@@ -6,11 +6,11 @@ title                    : "Thurain Thisar"
 title_separator          : "-"
 name                     : "Thurain Thisar"
 description              : "Android App Projects"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://thurainthisar.github.io"
+baseurl                  : # e.g. "/blog"
 repository               : "ThurainThisar/ExchangeRates"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+teaser                   : # e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -22,7 +22,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" (default), "light"
+    colorscheme          : # "dark" (default), "light"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -57,15 +57,15 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
-  app_id                 :
+  username               : "Thurain Thisar"
+  app_id                 : "thurain.thisar.3"
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : "Thurain Thisar"
   links: # An array of links to social media profiles
 
 # Analytics
@@ -78,12 +78,12 @@ analytics:
 # Site Author
 author:
   name             : "Thurain Thisar"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-pic-2.jpg"
   bio              : "Android App Developer"
   location         : "Magway, Magway, Myanmar"
   email            : "thurainthisar0070@gmail.com"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : # null (default)
   bitbucket        :
   codepen          :
   dribbble         :
