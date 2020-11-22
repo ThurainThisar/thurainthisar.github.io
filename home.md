@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /home/
 title: "Home"
 author_profile: true
 header:
