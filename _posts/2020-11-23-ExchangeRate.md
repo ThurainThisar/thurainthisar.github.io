@@ -4,7 +4,7 @@ date: 2020-11-23
 tags: [exchange_rates, android]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "ExchangeRates, Android"
+excerpt: "Android App Project"
 mathjax: "true"
 ---
 
