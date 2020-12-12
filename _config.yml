@@ -8,7 +8,7 @@ name                     : "Thurain Thisar"
 description              : "Android App Projects"
 url                      : "https://thurainthisar.github.io"
 baseurl                  : # e.g. "/blog"
-repository               : "ThurainThisar/ExchangeRates"
+repository               : "thurain-thisar/ExchangeRates"
 teaser                   : # e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false
 words_per_minute         : 200
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Thurain Thisar"
   avatar           : "/images/thurain_thisar.jpg"
-  bio              : "Android App Developer"
+  bio              : "Freelance Software Developer"
   location         :
   email            : "thurainthisar0070@gmail.com"
   uri              :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ThurainThisar"
+  github           : "thurain-thisar"
   gitlab           :
   google_plus      :
   keybase          :
