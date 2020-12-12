@@ -8,7 +8,7 @@ name                     : "Thurain Thisar"
 description              : "Android App Projects"
 url                      : "https://thurainthisar.github.io"
 baseurl                  : # e.g. "/blog"
-repository               : "thurain-thisar/ExchangeRates"
+repository               : "thurainthisar/ExchangeRates"
 teaser                   : # e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false
 words_per_minute         : 200
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thurain-thisar"
+  github           : "thurainthisar"
   gitlab           :
   google_plus      :
   keybase          :
